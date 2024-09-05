@@ -1,0 +1,74 @@
+.navbar {
+    background-color: rgb(1, 1, 43);
+  }
+  
+  .navbar__container {
+    max-width: 1170px;
+    margin: 0 auto;
+    width: 90%;
+  }
+  
+  * {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: "Epilogue", sans-serif;
+  }
+  
+  .portfolio__container {
+    max-width: 1170px;
+    margin: 0 auto;
+    width: 90%;
+  }
+  
+  .portfolio {
+    background-color: rgb(1, 1, 43);
+  }
+  
+  .work {
+    background: #ffccb0;
+  }
+  
+  .work__container {
+    max-width: 1170px;
+    margin: 0 auto;
+    width: 90%;
+  }
+  
+  .img__container {
+    max-width: 1170px;
+    margin: 0 auto;
+    width: 90%;
+  }
+  
+  .img {
+    background: #ffccb0;
+  }
+  
+  .project {
+    background: #ffccb0;
+  }
+  
+  .project__container {
+    max-width: 1170px;
+    margin: 0 auto;
+    width: 90%;
+    background: #ef6d58;
+    padding: 41px 100px;
+  }
+  
+  .footer {
+    background: #ffccb0;
+  }
+  
+  .footer__container {
+    max-width: 1170px;
+    margin: 0 auto;
+    width: 90%;
+    padding: 89px 0;
+  }
+  

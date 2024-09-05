@@ -1,0 +1,173 @@
+@media (max-width: 571px) {
+  .hamburger-menu {
+    display: block;
+  }
+
+  .bar {
+    display: block;
+  }
+
+  .header__btn {
+    display: none;
+  }
+
+  .btn {
+    display: none;
+  }
+
+  br,
+  ul,
+  li {
+    display: none;
+  }
+
+  .work__wrapper {
+    display: none;
+  }
+
+  .dropdown {
+    display: block;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .img__wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .project__container {
+    max-width: 571px;
+    margin: 0 auto;
+    padding: 89px 0;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  .project__wrapper {
+    width: 571px;
+    display: flex;
+    flex-direction: column-reverse;
+    width: 100%;
+  }
+  .footer__item {
+    display: block;
+  }
+
+  .footer__list {
+    display: block;
+  }
+
+  .footer__container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .footer__wrapper {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .footer__end {
+    flex-direction: column;
+  }
+}
+
+
+@media (max-width: 1080px) {
+  .hamburger-menu {
+    display: block;
+  }
+
+  .bar {
+    display: block;
+  }
+
+  .header__btn {
+    display: none;
+  }
+
+  .btn {
+    display: none;
+  }
+
+  br,
+  ul,
+  li {
+    display: none;
+  }
+
+  .work__wrapper {
+    display: none;
+  }
+
+  .dropdown {
+    display: block;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr, 1fr;
+  }
+  .img__wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .project__container {
+    max-width: 571px;
+    margin: 0 auto;
+    padding: 89px 0;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  .project__wrapper {
+    width: 1080px;
+    display: flex;
+    flex-direction: column-reverse;
+    width: 100%;
+  }
+  .footer__item {
+    display: block;
+  }
+
+  .footer__list {
+    display: block;
+  }
+
+  .footer__container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .footer__wrapper {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .footer__end {
+    flex-direction: column;
+  }
+
+  .label{
+    display: none;
+  }
+  .title{
+    display: none;
+  }
+}
